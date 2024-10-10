@@ -1,0 +1,22 @@
+
+body {
+    background-color: black; /* Cor de fundo */
+}
+
+.titulo {
+    color: white; /* Cor laranja para o título h1 */
+    font-family: "Audiowide", sans-serif;
+    font-size: 40px;
+}
+
+.coachings
+{
+    color: #00f7ff;
+   font-family: "Audiowide", sans-serif;
+   font-size: 40px;
+}
+
+.descrição
+{
+    color: white; 
+}
