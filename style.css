@@ -1,6 +1,7 @@
 
 body {
     background-color: rgb(36, 35, 41); /* Cor de fundo */
+    margin: 0%;
 }
 
 .titulo h1
@@ -19,13 +20,14 @@ margin-top: 5%;
 {
     color: #00f7ff;
    font-family: "Audiowide", sans-serif;
-   font-size: 30px;
+   font-size: 30px; /* tamanho da fonte */
 }
 
 .descrição
 {
     color: white; 
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 
 .register-now 
@@ -44,4 +46,25 @@ margin-top: 5%;
     padding: 15px;
     border-radius: 10px;
     text-decoration: none;
+}
+
+.div-geral 
+{
+    display: flex;
+}
+
+.tela-direita video
+{
+    width: 100%; /* largura */
+
+}
+
+.tela-direita
+{
+    width: 50% ;
+}
+
+.tela-esquerda  
+{
+width: 50%;
 }
