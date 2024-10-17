@@ -67,4 +67,17 @@ margin-top: 5%;
 .tela-esquerda  
 {
 width: 50%;
+padding: 30px;
+}
+
+.img-de-fundo img
+{
+    width: 100%;
+    margin-right: 10px;
+}
+
+.logo-kroos img 
+{
+margin-top: -50px;
+margin-left: -40px;
 }
