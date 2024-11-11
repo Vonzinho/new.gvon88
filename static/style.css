@@ -4,6 +4,13 @@ body {
     margin: 0%;
 }
 
+.container 
+{
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
+
 .titulo h1
 {
 margin-top: 5%;
@@ -43,7 +50,6 @@ margin-top: 5%;
     font-weight:bold;
     color: #ffffff;
     margin-left: 20px;
-    margin-top: ;
     padding: 15px;
     border-radius: 10px;
     text-decoration: none;
@@ -83,9 +89,41 @@ margin-top: -50px;
 margin-left: -40px;
 }
 
-.login-email
+.login-email input
 {
     text-align: center;
-    color:aliceblue;
+   color: #000000;
     font-family: "Audiowide", sans-serif;
+    border-radius: 5px;
 }
+
+.login-email p,h1
+{
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes a 
+{
+    background-color: #00d9ff; /* Cor de fundo ao passar o mouse */
+    font-weight:bold;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes
+{
+text-align: center;
+margin-top: 30%;
+}
+
+
+
+
+
+
+
