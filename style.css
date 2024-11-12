@@ -1,0 +1,128 @@
+
+body {
+    background-color: rgb(36, 35, 41); /* Cor de fundo */
+    margin: 0%;
+}
+
+.container 
+{
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
+
+.titulo h1
+{
+margin-top: 5%;
+}
+
+.titulo {
+    color: white; /* Cor laranja para o título h1 */
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.coachings
+{
+    color: #00f7ff;
+   font-family: "Audiowide", sans-serif;
+   font-size: 15px; /* tamanho da fonte */
+}
+
+.descrição
+{
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.register-now 
+{
+    color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.register-now a 
+{ 
+    background-color: #00d9ff; /* Cor de fundo ao passar o mouse */
+    font-weight:bold;
+    color: #ffffff;
+    margin-left: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.div-geral 
+{
+    display: flex;
+}
+
+.tela-direita video
+{
+    width: 100%; /* largura */
+
+}
+
+.tela-direita
+{
+    width: 50% ;
+}
+
+.tela-esquerda  
+{
+width: 50%;
+padding: 30px;
+}
+
+.img-de-fundo img
+{
+    width: 100%;
+    margin-right: 10px;
+}
+
+.logo-kroos img 
+{
+margin-top: -50px;
+margin-left: -40px;
+}
+
+.login-email input
+{
+    text-align: center;
+   color: #000000;
+    font-family: "Audiowide", sans-serif;
+    border-radius: 5px;
+}
+
+.login-email p,h1
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes a 
+{
+    background-color: #00d9ff; /* Cor de fundo ao passar o mouse */
+    font-weight:bold;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes
+{
+text-align: center;
+margin-top: 30%;
+}
+
+
+
+
+
+
